@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: 1to1 MLM
+ * Author Name: Paul Kato (pkats2013@gmail.com)
  * Description: Tracks member referrals and records configurable three-level WooCommerce commissions.
  * Version: 0.1.0
  * Requires at least: 6.4
